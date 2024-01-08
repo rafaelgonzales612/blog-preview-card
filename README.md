@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://blogpreviewcard-rafaelgonz612.netlify.app/](https://blogpreviewcard-rafaelgonz612.netlify.app/)
 
 ## My process
 
@@ -52,10 +52,10 @@ As I move forward I definitely want to make a solid CSS Reset template sheet for
 
 ### Useful resources
 
-- [Resource](https://developer.mozilla.org/en-US/) - Always a good resource and I come back to this always like many others.
+- [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/) - Always a good resource and I come back to this always like many others.
 
 ## Author
 
-- Github - [My Github profile](https://github.com/rafaelgonzales612)
-- Frontend Mentor - [My Frontend mentor profile](https://www.frontendmentor.io/profile/rafaelgonzales612)
-- Website - [My portoflio website](https://www.gonzalesrafael.com/)
+- Github - [@rafaelgonzales612](https://github.com/rafaelgonzales612)
+- Frontend Mentor - [@rafaelgonzales612](https://www.frontendmentor.io/profile/rafaelgonzales612)
+- Website - [https://www.gonzalesrafael.com/](https://www.gonzalesrafael.com/)
