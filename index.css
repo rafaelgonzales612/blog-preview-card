@@ -43,7 +43,7 @@ p {
   height: auto;
   background-color: var(--color-white);
   border-radius: var(--border-radius);
-  box-shadow: 5px 5px var(--color-black);
+  box-shadow: 10px 10px var(--color-black);
 }
 
 .blog-card-img {
@@ -68,8 +68,12 @@ p {
   font-weight: var(--font-weight-bold);
 }
 
-.blog-card-header:hover,
-.blog-card-header:focus {
+.blog-card-header a {
+  text-decoration: none;
+  color: var(--color-black);
+}
+
+.blog-card-header a:hover {
   color: var(--color-yellow);
   cursor: pointer;
 }
