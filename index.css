@@ -25,12 +25,19 @@ body {
 }
 
 /* === GENERAL STYLES === */
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 p {
   margin: 20px;
 }
 
 .blog-card {
-  margin: 0 auto;
+  /* margin: 0 auto; */
   border: 1px solid black;
   width: 375px;
   height: auto;
